@@ -1,0 +1,71 @@
+body {
+  background-color: #e1f3f9;
+}
+
+.hed {
+  display: block;
+  margin: 0 auto;
+}
+
+.ig {
+  display: block;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.container {
+  background-color: white;
+  margin: 30px  auto 50px;
+  width: 1000px;
+  padding: 5px 5px;
+}
+
+.index {
+  margin-left: 250px;
+}
+
+.title {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.foot {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+  height: 330px;
+  width: 1000px;
+}
+
+.derail {
+  font-size: 30px;
+  margin: 0;
+  padding-left: 210px;
+}
+
+.img {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.hed {
+  margin-top: 10px;
+}
+
+.right {
+  list-style: none;
+  display: inline;
+}
+
+.pop {
+  margin: 0 auto;
+}
+
+.text {
+  margin: 8 auto;
+  width: 270px;
+  border-top: solid 2px gray;
+  border-bottom: solid 2px gray;
+}
+/*# sourceMappingURL=style.css.map */
